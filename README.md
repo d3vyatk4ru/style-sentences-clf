@@ -7,7 +7,7 @@ Predictions of functional styles of sentence speech in Russian
 
 Devyatkin Daniil 👋
  
-Student of bauman moscow state technical university
+Student of bauman moscow state technical university 🏢
  
 📭 danya.devyatkin@mail.ru
 </p>
@@ -17,7 +17,7 @@ Student of bauman moscow state technical university
  
 Andrew Tkachenko 👋
  
-Student of bauman moscow state technical university
+Student of bauman moscow state technical university 🏢
  
 Embedded Developer 💻
  
